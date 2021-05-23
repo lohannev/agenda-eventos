@@ -1,4 +1,4 @@
-# agenda-eventos 📑 :bookmark_tabs:	
+# agenda-eventos 📑
  
 Exercício para o curso de análise e desenvolvimento de sistemas da ETESP.
 
